@@ -1,0 +1,10 @@
+{
+  "name": "Agricultural Crop Management Platform",
+  "description": "Smart agricultural crop and farm management system for tracking farms, fields, crop cultivation stages, irrigation, fertilizers, pest monitoring, harvests, weather alerts, and reports.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
